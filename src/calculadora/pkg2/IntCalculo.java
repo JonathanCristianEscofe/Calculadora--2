@@ -214,6 +214,7 @@ public class IntCalculo extends javax.swing.JFrame {
 
     private void jBrestaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jBrestaActionPerformed
         // TODO add your handling code here:
+        
            try  {
        int num1 = Integer.parseInt(jTprimerNum.getText());
        int num2 = Integer.parseInt(jTsegundoNum.getText());
